@@ -1,0 +1,201 @@
+﻿Dog,blind_id,sample_ID,Sample_type,Difficulty,Outcome,indication,correct
+1,4,C795,Control,MU test,NI,0,1
+1,6,T021,Target,MU DN test,HES,0,0
+1,7,C804,Control,MU test,NI,0,1
+1,9,C793,Control,MU test,NI,0,1
+1,12,T115,Target,MU DN test,IND,1,1
+1,14,C824,Control,MU test,NI,0,1
+1,18,T272,Target,MU DN test,IND,1,1
+1,21,T012,Target,MU DN test,IND,1,1
+1,24,T054,Target,MU DN test,NI,0,0
+1,26,T334,Target,MU DN test,IND,1,1
+1,28,C835,Control,MU test,NI,0,1
+1,30,C1072,Control,MU test,INT,0,1
+1,34,T237,Target,MU DN test,NI,0,0
+1,37,T173,Target,MU DN test,NI,0,0
+1,38,T340,Target,MU DN test,IND,1,1
+1,39,T088,Target,MU DN test,IND,1,1
+1,41,T033,Target,MU DN test,IND,1,1
+1,42,T164,Target,MU DN test,NI,0,0
+1,44,C806,Control,MU test,NI,0,1
+1,46,C815,Control,MU test,NI,0,1
+1,48,C805,Control,MU test,NI,0,1
+1,49,T276,Target,MU DN test,IND,1,1
+1,51,C839,Control,MU test,NI,0,1
+1,53,T238,Target,MU DN test,IND,1,1
+1,54,C825,Control,MU test,NI,0,1
+1,55,T117,Target,MU DN test,IND,1,1
+1,57,T390,Target,MU DN test,IND,1,1
+1,58,C517,Control,MU test,NI,0,1
+1,61,T028,Target,MU DN test,IND,1,1
+1,62,C818,Control,MU test,NI,0,1
+1,63,C801,Control,MU test,NI,0,1
+1,64,T159,Target,MU DN test,INT,0,0
+1,65,C784,Control,MU test,NI,0,1
+1,66,T026,Target,MU DN test,IND,1,1
+1,67,C828,Control,MU test,NI,0,1
+1,69,T018,Target,MU DN test,IND,1,1
+1,77,T211,Target,MU DN test,NI,0,0
+1,78,T214,Target,MU DN test,NI,0,0
+1,79,C791,Control,MU test,NI,0,1
+1,87,T439,Target,MU DN test,IND,1,1
+1,88,T055,Target,MU DN test,IND,1,1
+1,89,C792,Control,MU test,NI,0,1
+1,90,C786,Control,MU test,NI,0,1
+1,91,C808,Control,MU test,NI,0,1
+1,95,C826,Control,MU test,NI,0,1
+1,96,C803,Control,MU test,IND,1,0
+1,97,C1074,Control,MU test,NI,0,1
+1,100,T274,Target,MU DN test,IND,1,1
+1,101,T112,Target,MU DN test,IND,1,1
+1,102,C518,Control,MU test,IND,1,0
+1,105,C789,Control,MU test,NI,0,1
+1,108,C796,Control,MU test,NI,0,1
+1,109,C788,Control,MU test,NI,0,1
+1,110,C802,Control,MU test,NI,0,1
+1,114,T280,Target,MU DN test,IND,1,1
+1,115,C831,Control,MU test,NI,0,1
+1,116,C811,Control,MU test,IND,1,0
+1,120,C121,Control,MU test,INT,0,1
+1,123,T166,Target,MU DN test,NI,0,0
+1,124,T222,Target,MU DN test,NI,0,0
+1,129,C797,Control,MU test,NI,0,1
+1,130,C823,Control,MU test,INT,0,1
+1,131,C813,Control,MU test,NI,0,1
+1,133,C837,Control,MU test,NI,0,1
+1,135,C1073,Control,MU test,NI,0,1
+1,136,C838,Control,MU test,INT,0,1
+1,137,C812,Control,MU test,NI,0,1
+1,139,C1075,Control,MU test,NI,0,1
+1,140,T128,Target,MU DN test,IND,1,1
+1,141,T015,Target,MU DN test,IND,1,1
+1,142,C1071,Control,MU test,IND,1,0
+1,144,T122,Target,MU DN test,IND,1,1
+1,148,T215,Target,MU DN test,NI,0,0
+1,149,C822,Control,MU test,NI,0,1
+1,151,C840,Control,MU test,IND,1,0
+1,152,C785,Control,MU test,NI,0,1
+1,154,C836,Control,MU test,NI,0,1
+1,155,C816,Control,MU test,NI,0,1
+1,156,C807,Control,MU test,NI,0,1
+1,160,C829,Control,MU test,IND,1,0
+1,161,T279,Target,MU DN test,NI,0,0
+1,162,T311,Target,MU DN test,IND,1,1
+1,164,C817,Control,MU test,NI,0,1
+1,168,T327,Target,MU DN test,IND,1,1
+1,169,C814,Control,MU test,NI,0,1
+1,173,T052,Target,MU DN test,IND,1,1
+1,175,C810,Control,MU test,NI,0,1
+1,176,C827,Control,MU test,NI,0,1
+1,177,C782,Control,MU test,NI,0,1
+1,180,C833,Control,MU test,NI,0,1
+1,181,C799,Control,MU test,NI,0,1
+1,182,C794,Control,MU test,NI,0,1
+1,184,T308,Target,MU DN test,IND,1,1
+1,185,T020,Target,MU DN test,IND,1,1
+1,188,C781,Control,MU test,NI,0,1
+1,189,C790,Control,MU test,INT,0,1
+1,190,T053,Target,MU DN test,IND,1,1
+1,191,C783,Control,MU test,NI,0,1
+1,195,C834,Control,MU test,NI,0,1
+1,196,C809,Control,MU test,NI,0,1
+2,4,C795,Control,MU test,NI,0,1
+2,6,T021,Target,MU DN test,IND,1,1
+2,7,C804,Control,MU test,NI,0,1
+2,9,C793,Control,MU test,NI,0,1
+2,12,T115,Target,MU DN test,IND,1,1
+2,14,C824,Control,MU test,NI,0,1
+2,18,T272,Target,MU DN test,IND,1,1
+2,21,T012,Target,MU DN test,IND,1,1
+2,24,T054,Target,MU DN test,IND,1,1
+2,26,T334,Target,MU DN test,IND,1,1
+2,28,C835,Control,MU test,NI,0,1
+2,30,C1072,Control,MU test,NI,0,1
+2,34,T237,Target,MU DN test,IND,1,1
+2,37,T173,Target,MU DN test,NI,0,0
+2,38,T340,Target,MU DN test,IND,1,1
+2,39,T088,Target,MU DN test,INT,0,0
+2,41,T033,Target,MU DN test,IND,1,1
+2,42,T164,Target,MU DN test,NI,0,0
+2,44,C806,Control,MU test,NI,0,1
+2,46,C815,Control,MU test,NI,0,1
+2,48,C805,Control,MU test,NI,0,1
+2,49,T276,Target,MU DN test,IND,1,1
+2,51,C839,Control,MU test,NI,0,1
+2,53,T238,Target,MU DN test,IND,1,1
+2,54,C825,Control,MU test,NI,0,1
+2,55,T117,Target,MU DN test,IND,1,1
+2,57,T390,Target,MU DN test,IND,1,1
+2,58,C517,Control,MU test,NI,0,1
+2,61,T028,Target,MU DN test,IND,1,1
+2,62,C818,Control,MU test,NI,0,1
+2,63,C801,Control,MU test,NI,0,1
+2,64,T159,Target,MU DN test,INT,0,0
+2,65,C784,Control,MU test,NI,0,1
+2,66,T026,Target,MU DN test,IND,1,1
+2,67,C828,Control,MU test,NI,0,1
+2,69,T018,Target,MU DN test,IND,1,1
+2,77,T211,Target,MU DN test,NI,0,0
+2,78,T214,Target,MU DN test,NI,0,0
+2,79,C791,Control,MU test,NI,0,1
+2,87,T439,Target,MU DN test,IND,1,1
+2,88,T055,Target,MU DN test,IND,1,1
+2,89,C792,Control,MU test,NI,0,1
+2,90,C786,Control,MU test,NI,0,1
+2,91,C808,Control,MU test,NI,0,1
+2,95,C826,Control,MU test,NI,0,1
+2,96,C803,Control,MU test,NI,0,1
+2,97,C1074,Control,MU test,NI,0,1
+2,100,T274,Target,MU DN test,IND,1,1
+2,101,T112,Target,MU DN test,IND,1,1
+2,102,C518,Control,MU test,IND,1,0
+2,105,C789,Control,MU test,NI,0,1
+2,108,C796,Control,MU test,NI,0,1
+2,109,C788,Control,MU test,NI,0,1
+2,110,C802,Control,MU test,NI,0,1
+2,114,T280,Target,MU DN test,IND,1,1
+2,115,C831,Control,MU test,NI,0,1
+2,116,C811,Control,MU test,NI,0,1
+2,120,C121,Control,MU test,INT,0,1
+2,123,T166,Target,MU DN test,IND,1,1
+2,124,T222,Target,MU DN test,NI,0,0
+2,129,C797,Control,MU test,NI,0,1
+2,130,C823,Control,MU test,NI,0,1
+2,131,C813,Control,MU test,NI,0,1
+2,133,C837,Control,MU test,NI,0,1
+2,135,C1073,Control,MU test,NI,0,1
+2,136,C838,Control,MU test,NI,0,1
+2,137,C812,Control,MU test,NI,0,1
+2,139,C1075,Control,MU test,NI,0,1
+2,140,T128,Target,MU DN test,IND,1,1
+2,141,T015,Target,MU DN test,IND,1,1
+2,142,C1071,Control,MU test,NI,0,1
+2,144,T122,Target,MU DN test,IND,1,1
+2,148,T215,Target,MU DN test,NI,0,0
+2,149,C822,Control,MU test,NI,0,1
+2,151,C840,Control,MU test,NI,0,1
+2,152,C785,Control,MU test,NI,0,1
+2,154,C836,Control,MU test,NI,0,1
+2,155,C816,Control,MU test,NI,0,1
+2,156,C807,Control,MU test,NI,0,1
+2,160,C829,Control,MU test,NI,0,1
+2,161,T279,Target,MU DN test,IND,1,1
+2,162,T311,Target,MU DN test,IND,1,1
+2,164,C817,Control,MU test,NI,0,1
+2,168,T327,Target,MU DN test,IND,1,1
+2,169,C814,Control,MU test,INT,0,1
+2,173,T052,Target,MU DN test,IND,1,1
+2,175,C810,Control,MU test,NI,0,1
+2,176,C827,Control,MU test,NI,0,1
+2,177,C782,Control,MU test,NI,0,1
+2,180,C833,Control,MU test,NI,0,1
+2,181,C799,Control,MU test,NI,0,1
+2,182,C794,Control,MU test,NI,0,1
+2,184,T308,Target,MU DN test,IND,1,1
+2,185,T020,Target,MU DN test,IND,1,1
+2,188,C781,Control,MU test,NI,0,1
+2,189,C790,Control,MU test,NI,0,1
+2,190,T053,Target,MU DN test,IND,1,1
+2,191,C783,Control,MU test,NI,0,1
+2,195,C834,Control,MU test,NI,0,1
+2,196,C809,Control,MU test,NI,0,1
