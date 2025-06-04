@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Comparação de Nove Algoritmos Clássicos de Aprendizado de Máquina em Conjuntos de Dados de Referência
 Este repositório contém os resultados de um estudo comparativo aprofundado sobre o desempenho de nove algoritmos clássicos de aprendizado de máquina em diversos conjuntos de dados de referência. O objetivo foi investigar como as características intrínsecas dos dados influenciam a performance dos modelos.
 
@@ -55,3 +56,6 @@ Email: pereira.saulo@ufms.br
 
 🤝 Como Contribuir
 Sinta-se à vontade para explorar o código-fonte, reproduzir os experimentos e contribuir com insights ou melhorias. Se você tiver alguma sugestão ou encontrar algum problema, abra uma issue ou envie um pull request.
+=======
+# comparacao_algoritmos
+>>>>>>> 39f834e5f70a3f3a02de62ddc8398c709f4995da
